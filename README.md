@@ -1,7 +1,9 @@
 # ExtHanger
 A unpatched version of LTMEAT. may not work on all devices. worth a try tho.
 intructions for dummies: 
-1. Deploying maincontent.html
+1. Deploying maincontent.html.
+
+
    first click launcher on your keyboard. (Search icon)
    then type in: "Text"
    after opening the app, return to the repo and copy EVERYTHING in maincontent.html.
